@@ -1,0 +1,8 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.react-calendar .highlight {
+  outline: 2px solid red;
+}
